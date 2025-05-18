@@ -14,9 +14,10 @@ Bu proje, React ve Tailwind CSS kullanarak geliştirdiğim basit ve kullanıcı 
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **React**
-- **Tailwind CSS**
-- **SweetAlert2**
+- **React** – UI bileşenlerini oluşturmak için
+- **Tailwind CSS** – Hızlı ve modern stil uygulamaları için
+- **SweetAlert2** – Bildirim ve onay kutuları için
+- **React Icons** – Görevler için ikon desteği
 
 ## 📸 Ekran Görüntüleri
 
