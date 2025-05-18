@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-gray-300;
+}
+
+.modal-back{
+  background-color: black;
+  opacity: 0.5;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  transition: opacity 0.3s ease;
+}
+
+.modal {
+  background-color: white;
+  padding: 20px;
+  position: relative;
+  z-index: 1001;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+
